@@ -1,4 +1,5 @@
-# cards
+# cards 
+Status: In progress...
 
 ## Project setup
 ```
